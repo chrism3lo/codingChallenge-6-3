@@ -16,7 +16,7 @@
 
 
 
-    // answer with "/"
+    // answer with "/" ----------------------------
 
     // let date1 = "06/14/2019";
     // let date2 = "06/20/2019";
@@ -32,9 +32,9 @@
     //     console.log(getDays(date1,date2))
 
 
-// answer with comma
+// answer with comma -------------------------
 
-let date1 = 'June 14, 2019';
+let date1 = 'June 9, 2019';
 let date2 = 'June 20, 2019';
 
 
@@ -48,7 +48,5 @@ function getDays(date1,date2){
     return Math.abs(Number(newArr1[0] - newArr2[0]));
     
 }
-
-
 
     console.log(getDays(date1,date2));
