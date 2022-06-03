@@ -28,7 +28,7 @@
     //         return Math.abs(Number(dateArr[1] - dateArr2[1]));
     //     }
 
-    //     //console.log(getDays(date1))
+ 
     //     console.log(getDays(date1,date2))
 
 
